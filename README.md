@@ -1,4 +1,3 @@
-```markdown
 # Pulse Energy Back-end Code Assignment
 
 This project is designed to create a backend system for handling meter data records from MQTT clients and storing them in an SQLite database. It also provides API endpoints to retrieve the stored data.
